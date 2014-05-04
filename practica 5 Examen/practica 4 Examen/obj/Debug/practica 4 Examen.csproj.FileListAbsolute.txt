@@ -1,0 +1,7 @@
+C:\Users\Ing. Omar\Documents\SharpDevelop Projects\practica 4 Examen\practica 4 Examen\bin\Debug\practica 4 Examen.exe
+C:\Users\Ing. Omar\Documents\SharpDevelop Projects\practica 4 Examen\practica 4 Examen\bin\Debug\practica 4 Examen.pdb
+C:\Users\Ing. Omar\Documents\SharpDevelop Projects\practica 4 Examen\practica 4 Examen\obj\Debug\practica 4 Examen.csprojResolveAssemblyReference.cache
+C:\Users\Ing. Omar\Documents\SharpDevelop Projects\practica 4 Examen\practica 4 Examen\obj\Debug\practica_4_Examen.MainForm.resources
+C:\Users\Ing. Omar\Documents\SharpDevelop Projects\practica 4 Examen\practica 4 Examen\obj\Debug\practica 4 Examen.csproj.GenerateResource.Cache
+C:\Users\Ing. Omar\Documents\SharpDevelop Projects\practica 4 Examen\practica 4 Examen\obj\Debug\practica 4 Examen.exe
+C:\Users\Ing. Omar\Documents\SharpDevelop Projects\practica 4 Examen\practica 4 Examen\obj\Debug\practica 4 Examen.pdb
